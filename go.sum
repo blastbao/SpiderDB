@@ -1,0 +1,4 @@
+github.com/alphazero/Go-Redis v0.0.0-20120924171622-a0637b154364 h1:SKyc+jKctcAR+nh5UvXhxXKkPmNxwIxBS79ETPXgAjI=
+github.com/alphazero/Go-Redis v0.0.0-20120924171622-a0637b154364/go.mod h1:35LTVxCipKWL+P6fqZFapsTz3ni5EVtQms8eEKD6EEs=
+github.com/ericfode/SpiderDB v0.0.0-20190225180530-5b704943ee11 h1:eUhywCm/JBOMvvxTuT0SaQEGOltMm4xEmCvwDfaIYfo=
+github.com/ericfode/SpiderDB v0.0.0-20190225180530-5b704943ee11/go.mod h1:odrUcxTAeB1gSKMlvQZnRG2gWEW/8U6mmN/bm86Slx4=
